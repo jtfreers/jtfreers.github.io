@@ -1,8 +1,8 @@
-# [Joshua Freers]
+# Joshua Freers
 I am currently studying Emergency Management at the Moreno Valley College. Utilizing GIS will give me a better geographical understanding when creating maps for emergency situations.
 ---
-## [Covid Case Count]
-!The map shows the Covid-19 case rate in conjunction to the population size.(images/yourfile.png)
+## Covid Case Count
+The map shows the Covid-19 case rate in conjunction to the population size.(images/yourfile.png)
 **Question:** The map answers the Coid-19 case rate compared to the population size in New York.
 **Data:** NYC Department of Health and Mental Hygiene, U.S. Census Bureau, 2020.
 **Method:** I utilized the map feature on ArcGIS to create the image. I started with located the area where I was plotting the Covid-19 outbreak. I used the contents plane and catalog plane to add specific pieces of information to the map.
@@ -11,7 +11,7 @@ I am currently studying Emergency Management at the Moreno Valley College. Utili
 ---
 --7--
 ## Covid-19 Case Rate
-!The map shows the Covid-19 case rates within New York.(images/yourotherfile.png)
+The map shows the Covid-19 case rates within New York.(images/yourotherfile.png)
 **Question:** The map shows the Covid-19 case rate within different cities located within the state of New York.
 **Data:** NYC Department of Health and Mental Hygiene, U.S. Census Bureau, 2020.
 **Method:** I utilized the map feature on ArcGIS to create the image. I located the state of New York and added an attribute table which provided me with the numbers for the rates. I used the symbology pane to change the color of the images which allows the map to be easily read.  
