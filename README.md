@@ -9,7 +9,6 @@ The map shows the Covid-19 case rate in conjunction to the population size.
 **A design choice I made and why:** I chose a color pallet that was easily visible. It makes it clear to see the difference between the Covid case count and the population area.
 **A limitation of this map:** The limitation of this map is that it is hard to read the city names underneath the yellow circles.
 ---
---7--
 ## Covid-19 Case Rate
 The map shows the Covid-19 case rates within New York.
 **Question:** The map shows the Covid-19 case rate within different cities located within the state of New York.
